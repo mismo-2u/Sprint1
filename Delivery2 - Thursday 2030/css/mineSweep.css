@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color:white;
+  }
+
+.board-container {
+    background-color: rgb(211, 211, 211);
+    border: 3px solid rgba(248, 246, 246, 0.968);
+}
+
+.cell {
+    border : 0.1px solid black;
+    width: 40px;
+    height: 40px;
+}
